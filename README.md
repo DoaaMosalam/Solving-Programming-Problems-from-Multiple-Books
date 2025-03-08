@@ -1,4 +1,4 @@
-# Solving Programming Problems from Multiple Books
+# 📚 Solving Programming Problems from Multiple Books
 
 ## Introduction
 
@@ -19,7 +19,7 @@ Below is a table listing each book along with its corresponding GitHub repositor
 | **Kotlin Apprentice** |![photo_٢٠٢٥-٠٣-٠٨_٠٣-٠٧-٥٦ (4)](https://github.com/user-attachments/assets/4e66a126-c3b1-4a17-b28a-3163d570f3ba)  | N/A | N/A | N/A | [GitHub Link](#) |
 
 
-## How to Use This Repository
+## 🚀 How to Use This Repository
 
 1. Clone the repository:
    ```sh
@@ -31,7 +31,7 @@ Below is a table listing each book along with its corresponding GitHub repositor
    ```
 3. Explore the solutions and contribute by adding improvements or new solutions.
 
-## Contribution
+## Contribution 🤝 
 
 Feel free to contribute by submitting pull requests with your own solutions or improvements. Make sure to follow best coding practices and add proper documentation.
 ### Notes
